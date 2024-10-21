@@ -5,7 +5,6 @@ def suma(n1, n2):
     return result
 
 def division(n1, n2):
-    result = 0
     try:
         result = n1 / n2
     except:
